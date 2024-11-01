@@ -44,7 +44,7 @@ navElement.innerHTML = '<a href="#">HOME</a>';
 
 //8. Byt ut allt HTML-innehåll i tredje articeln till en img med nick cage.
 const articleElement = document.querySelectorAll('article')[2];
-//articleElement.innerHTML = '<img src="https://cdn.mos.cms.futurecdn.net/KG7kYHyteTset4EW6MqxV-650-80.jpg">';
+articleElement.innerHTML = '<img src="https://cdn.mos.cms.futurecdn.net/KG7kYHyteTset4EW6MqxV-650-80.jpg">';
 
 //Ändra attribut
 //1. Byt ut bilden på första hoodien till en place-kitten bild. 
